@@ -1,8 +1,9 @@
-# React + Vite
+#GeneratorPdf
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website to create and download a pdf from data entered in a form
 
-Currently, two official plugins are available:
+- Install dependencies npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Run in local with npm run dev
+
+
